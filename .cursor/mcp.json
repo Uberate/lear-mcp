@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "local_server": {
+            "command": "mcp",
+            "args": ["run",
+                "/Users/uberate/workspace/learn-mcp/mcp_local_server_demo/local_server.py"
+            ]
+        }
+    }
+}
